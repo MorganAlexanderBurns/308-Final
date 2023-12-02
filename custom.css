@@ -24,7 +24,7 @@ body {
 
 /* Style for the hero section */
 header {
-    background: url('jerusalem.webp') center/cover no-repeat; /* Replace with the path to your hero image */
+    background: url('../jerusalem.webp') center/cover no-repeat; /* Replace with the path to your hero image */
     height: 300px;
     display: flex;
     align-items: center;
